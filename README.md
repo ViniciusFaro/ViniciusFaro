@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ViniciusFaro
+- Machine Learning enthusiast
+- currencly researching Deep Learning
