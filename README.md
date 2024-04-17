@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @ViniciusFaro
+- Vinicius Faro
+- Computer Scientist at UFRJ
 - Machine Learning enthusiast
-- currently researching Deep Learning
+- Researcher in AI at LabMEMS
