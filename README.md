@@ -1,4 +1,4 @@
-- Vinicius Faro
-- Computer Scientist at UFRJ
-- Machine Learning enthusiast
-- Researcher in AI at LabMEMS
+Vinicius Faro
+Computer Scientist at UFRJ
+Deep Learning scientist
+Researcher in AI at Coppe/UFRJ
